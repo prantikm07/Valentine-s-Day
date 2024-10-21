@@ -8,6 +8,6 @@ A cute and fun Valentine's Day card built with HTML, CSS, and JavaScript. The ca
 - JavaScript
 
 ## Preview
-[Share this link!](https://prantikm07.github.io/Valentines-Card/)
+Here is the preview link: [Click Here!](https://prantikm07.github.io/Valentines-Card/)
 
 *Enjoy spreading the love this Valentine's Day! 💖*
